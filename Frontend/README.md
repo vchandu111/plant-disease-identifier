@@ -1,6 +1,6 @@
 # Frontend - React Application
 
-React frontend with Tailwind CSS for the internship projects template.
+React frontend with Tailwind CSS for the capstone project template.
 
 ## Quick Start
 

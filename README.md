@@ -1,4 +1,4 @@
-# Internship Project Template
+# Capstone Project Template
 
 This template includes a FastAPI backend with Google Gemini LLM integration and a React frontend with Tailwind CSS.
 
@@ -42,7 +42,7 @@ This template includes a FastAPI backend with Google Gemini LLM integration and 
 
 First, you need to clone this repository to your local machine. This will download all the project files to your computer.
 
-**Repository URL:** https://github.com/progressionschool/internship-project-template
+**Repository URL:** https://github.com/vchandu111/capstone-project-template
 
 **On Windows:**
 
@@ -54,11 +54,11 @@ First, you need to clone this repository to your local machine. This will downlo
    (Replace `YourName` with your actual username)
 3. Clone the repository:
    ```bash
-   git clone https://github.com/progressionschool/internship-project-template.git
+   git clone https://github.com/vchandu111/capstone-project-template.git
    ```
 4. Navigate into the project directory:
    ```bash
-   cd internship-project-template
+   cd capstone-project-template
    ```
 
 **On macOS:**
@@ -71,11 +71,11 @@ First, you need to clone this repository to your local machine. This will downlo
    (Or any other directory you prefer)
 3. Clone the repository:
    ```bash
-   git clone https://github.com/progressionschool/internship-project-template.git
+   git clone https://github.com/vchandu111/capstone-project-template.git
    ```
 4. Navigate into the project directory:
    ```bash
-   cd internship-project-template
+   cd capstone-project-template
    ```
 
 **Note:** Make sure you have Git installed on your system. If you don't have Git installed, download it from [git-scm.com](https://git-scm.com/downloads).
